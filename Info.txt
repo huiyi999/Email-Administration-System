@@ -1,0 +1,6 @@
+First Name: Huiyi
+Last Name: Chen
+Email: huiyi.chen@sales.company.com
+Password: M\5T-ZZ_
+Capacity: 500
+Alternate mail: null
